@@ -1,0 +1,72 @@
+.text-white{
+    color: white;
+}
+.nav-h{
+    height: 90px;
+}
+.nav-hover:hover{
+    color: aquamarine;
+}
+.logo{
+    font-size: 30px;
+    font-family: 'El Messiri';
+}
+.bg-orange{
+    background: #E38B29;
+    opacity: 0.9;
+}
+.title-section{
+    background-image: url('./image/web.jpg');
+    background-size: cover;
+    padding-top: 200px;
+    position: relative;
+    z-index: -1;
+}
+.title-section{
+    height: 600px;
+}
+.title-content{
+    font-family: 'Poppins';
+}
+.title-content h1{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.course{
+    height: 600px;
+    background-color: #E38B29;
+    border-radius: 30px 30px 0px 0px;
+    box-shadow: 20px;
+    padding-top: 50px;
+    margin-top: -40px;
+}
+.list-course{
+    box-shadow: 30px;
+}
+.course h1{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.contact{
+    height: 300px;
+}
+.contact h2{
+    font-size: 40px;
+    font-weight: bolder; 
+}
+.contact-us{
+    padding-top: 20px;
+}
+.contact-us h5{
+    margin-bottom: 20px;
+}
+Footer{
+    height: 70px;
+    background-color: #E38B29;
+    padding: 20px;
+}
+
+
+
+
+
